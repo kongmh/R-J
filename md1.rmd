@@ -1,3 +1,8 @@
+---
+output: 
+  html_document: 
+    keep_md: true
+---
 # First mkdn file
 __second__
 **line**
