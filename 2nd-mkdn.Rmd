@@ -1,7 +1,7 @@
 ---
 title: "2nd-mkdn"
-output: html_document
 date: "2025-04-15"
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
@@ -9,6 +9,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## R Markdown
+# ss
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
